@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import { useEffect, useReducer } from "react";
-import { todoReducer } from "../08-useReducer/todoReducer";
+import { todoReducer } from "./todoReducer";
 import { useCounter } from "./useCounter";
 
 
